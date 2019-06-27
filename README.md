@@ -31,4 +31,4 @@
 
 |  免费知识星球   | 微信公众号|
 |  :----  | ----  |
-| ![知识星球]https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)  | ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)|
+| ![知识星球](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)  | ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)|
