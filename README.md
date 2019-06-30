@@ -30,5 +30,5 @@
 ## 成长之路
 
 |  免费知识星球   | 微信公众号| 微信公众号|
-|  :----  | ----  |----  |
-| ![知识星球](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)  | ![Python公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E5%9C%88%E5%85%AC%E4%BC%97%E5%8F%B7.png)| ![测试开发公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E6%B5%8B%E8%AF%95%E7%A4%BE%E5%8C%BA%E5%85%AC%E4%BC%97%E5%8F%B7.png)|
+|  :----  | ----  | ----  |
+| ![知识星球](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)  | ![Python公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E5%9C%88%E5%85%AC%E4%BC%97%E5%8F%B7.png) | ![测试开发公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E6%B5%8B%E8%AF%95%E7%A4%BE%E5%8C%BA%E5%85%AC%E4%BC%97%E5%8F%B7.png)|
