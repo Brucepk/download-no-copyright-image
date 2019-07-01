@@ -61,6 +61,12 @@ if __name__ == '__main__':
             download(filename, url)
         print('第%s页已爬取' % num)
         time.sleep(int(format(random.randint(3, 10))))     # 随机等待时间
+        
+ 
+"""
+查看更多有趣的项目请关注公众号「Python知识圈」
+或者访问链接：https://github.com/Brucepk/download-no-copyright-image
+"""
 
 
 
