@@ -4,6 +4,11 @@ import random
 import time
 import os
 
+"""
+本文原创：pk哥，公众号：Python知识圈（id：PythonCircle），如需转载，请关注公众号，联系pk哥授权。
+定时分享大量有趣有料的 Python 爬虫和实战项目，值得你的关注，关注后回复1024有惊喜哦！
+"""
+
 
 def get_urls(url):
     headers = {
@@ -40,7 +45,11 @@ def download(filename, url):
             print('成功下载图片：', filename)
         except:
             print('下载失败：', filename)
-
+            
+"""
+本文原创：pk哥，公众号：Python知识圈（id：PythonCircle），如需转载，请关注公众号，联系pk哥授权。
+定时分享大量有趣有料的 Python 爬虫和实战项目，值得你的关注，关注后回复1024有惊喜哦！
+"""
 
 if __name__ == '__main__':
     directory = input('输出你要下载的图片的英文关键字：')
