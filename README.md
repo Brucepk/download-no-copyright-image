@@ -9,8 +9,10 @@
 微信公众号上目前已发布的部分文章链接，以及对应的代码或数据文件如下：
 
 
+
 |  文章名称及链接   | 代码 / 数据文件|
 |  :----  | ----  |
+| [Python给美女壁纸加水印](https://www.pyzhishiquan.com/no-copyright-image.html)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/text2photo.py)|
 | [Python批量下载无版权图片](https://www.pyzhishiquan.com/no-copyright-image.html)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/pixabay.py)|
 | [蔡徐坤学学吴亦凡，Python可视化分析「大碗宽面」b站弹幕和网易云音乐评论](https://www.pyzhishiquan.com/noodles-skrrr.html)  | [请点击链接](https://github.com/Brucepk/Kris-noodles)|
 | [用Python画出世界地图和中国地图](https://www.pyzhishiquan.com/drawing-map.html)  | [请点击链接](https://github.com/Brucepk/DrawingMap)|
