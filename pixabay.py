@@ -15,8 +15,8 @@ def get_urls(url):
              'User-Agent':
              'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.71 Safari/537.1 LBBROWSER'}
     # 代理失效的话，可以去https://www.xicidaili.com/nn/换一个，找那些存活时间长的就行
-    proxy = {'https': '183.154.54.27:9999'}
-    html = requests.get(url, headers=headers, proxies=proxy).text
+    # proxy = {'https': '183.154.54.27:9999'}
+    html = requests.get(url, headers=headers).text
     urls = re.compile(r'data-lazy-srcset="(.*?)"')
     res = re.findall(urls, html)
     img_urls = []
@@ -54,7 +54,7 @@ def download(filename, url):
 
 if __name__ == '__main__':
     # directory = input('输出你要下载的图片的英文关键字：')
-    directorys = ['beauty', 'ocean', 'sunset']
+    directorys = ['winter', 'snowflake', 'night view']
     for directory in directorys:
         for num in range(1, 6):
             search_url = 'http://pixabay.com/photos/search/{}/?pagi={}'.format(directory, num)  # 拼接每页的链接
