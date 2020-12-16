@@ -12,8 +12,9 @@
 
 |  文章名称及链接   | 代码 / 数据文件|
 |  :----  | ----  |
-| [Python给美女壁纸加水印](https://mp.weixin.qq.com/s?__biz=MzA3Nzc4MzY2NA==&mid=2247485810&idx=1&sn=a7d3f8f32661e0a2c6f7367592ac2d92&chksm=9f4dfe6da83a777b55a2ac487d2eff888d37d34de47cdde6595af2615f9e9b3c5af36667b26f&token=815980818&lang=zh_CN#rd)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/text2photo.py)|
-| [Python批量下载无版权图片](https://www.pyzhishiquan.com/no-copyright-image.html)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/pixabay.py)|
+| [Python小工具：3秒钟将视频转换为音频](https://www.pyzhishiquan.com/video-to-audio.html)  | [请点击链接](https://github.com/Brucepk/video2audio)|
+| [Python给美女壁纸加水印](https://mp.weixin.qq.com/s/oQswOk1GjJoYG-pI-_Pf_Q)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/text2photo.py)|
+| [Python批量下载无版权图片](https://mp.weixin.qq.com/s/WPoi89YFTOHvQRCNfyu7lg)  | [请点击链接](https://github.com/Brucepk/download-no-copyright-image/blob/master/pixabay.py)|
 | [蔡徐坤学学吴亦凡，Python可视化分析「大碗宽面」b站弹幕和网易云音乐评论](https://www.pyzhishiquan.com/noodles-skrrr.html)  | [请点击链接](https://github.com/Brucepk/Kris-noodles)|
 | [用Python画出世界地图和中国地图](https://www.pyzhishiquan.com/drawing-map.html)  | [请点击链接](https://github.com/Brucepk/DrawingMap)|
 | [介绍一款小白都会用的开源爬虫利器：you-get](https://www.pyzhishiquan.com/you-get.html)  | [请点击链接](https://github.com/soimort/you-get)|
