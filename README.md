@@ -30,8 +30,3 @@
 | [Scrapy框架爬取海量妹子图](https://www.pyzhishiquan.com/scrapy-meinv.html)  | 在我的公众号回复「学习」获取源码|
 | [Python制作微信机器人，随时陪你聊天](https://www.pyzhishiquan.com/wechat-robot.html)  | [请点击链接](https://github.com/Brucepk/WechatRobot)|
 
-## 成长之路
-
-|  免费知识星球   | 微信公众号| 微信公众号|
-|  :----  | ----  | ----  |
-| ![知识星球](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.png)  | ![Python公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E7%9F%A5%E8%AF%86%E5%9C%88%E5%85%AC%E4%BC%97%E5%8F%B7.png) | ![测试开发公众号](https://github.com/Brucepk/GitHub_Photos/blob/master/%E6%B5%8B%E8%AF%95%E7%A4%BE%E5%8C%BA%E5%85%AC%E4%BC%97%E5%8F%B7.png)|
