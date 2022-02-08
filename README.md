@@ -1,8 +1,8 @@
-## 个人官网
-欢迎访问个人官网： https://www.pyzhishiquan.com/
 
 ## 微信公众号
-欢迎关注个人微信公众号 “Python知识圈” （ID：PythonCircle）
+欢迎关注个人微信公众号，微信内打开此链接即可看到历史文章：https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzA3Nzc4MzY2NA==&sessionid=1591521289&subscene=0&scene=126&clicktime=1591521323#wechat_redirect
+
+也可以微信里搜索“Python知识圈” （ID：PythonCircle），或者扫描下方二维码。
 
 ![公众号](https://github.com/Brucepk/pk.github.io/blob/master/gzh.jpg)
 
